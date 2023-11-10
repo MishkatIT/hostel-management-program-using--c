@@ -1,1 +1,1 @@
-<p style="text-align: center;"><b>Hostel Management System Using C Programming</b></p>
+<p style="text-align: center;"><h1>Hostel Management System Using C Programming</h1></p>
