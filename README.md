@@ -1,5 +1,4 @@
 <p style="text-align: center;"><h1>Hostel Management System Using C Programming</h1></p>
-# Hostel Management System
 
 ## Overview
 This Hostel Management System is a console-based application implemented in C. It provides a set of features for managing student data in a hostel setting.
@@ -32,8 +31,5 @@ Compile the program using a C compiler and run the executable. Make sure to incl
 ## Contributors
 [Mishkatul Islam]
 
-```bash
-gcc hostel_management.c -o hostel_management
-./hostel_management
 
 
