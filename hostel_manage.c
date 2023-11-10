@@ -51,7 +51,7 @@ int pass(void)
     char sq[15];
     char user[10]="username";
     char pass[10]="password";
-    char security_ques[15]="white";
+    char security_ques[15]="security";
     do
     {
         system("CLS");
